@@ -21,7 +21,7 @@
   }
   
   header {
-    background-color: #7ab1a5;
+    background-color: #FF8A8A;
     padding: 4rem 2rem;
     position: relative;
   }
@@ -207,7 +207,7 @@
   footer {
     display: flex;
     justify-content: center;
-    background-color: #E9B384;
+    background-color: #F4DEB3;
     margin: 0;
     
   }
